@@ -15,18 +15,12 @@ fi
 # Make sure we’re using the latest Homebrew.
 brew update
 
-# Install Languages
-brew install elixir
-brew install elm
+# Install Languages/Runtimes
 brew install node
 
 # Install Datastores
 brew install postgresql
 brew install redis
-
-# Install Heroku
-brew install heroku/brew/heroku
-heroku update
 
 # Development Tool Casks
 brew cask install --appdir="/Applications" gitup

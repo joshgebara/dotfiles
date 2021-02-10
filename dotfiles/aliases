@@ -32,7 +32,6 @@ alias ........='cd ../../../../'
 alias -- -="cd -"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
-alias p="cd ~/JoshDrive/proyectos"
 
 # Autocorrect typos in path names when using `cd`
 shopt -s cdspell;

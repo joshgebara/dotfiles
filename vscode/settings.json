@@ -4,9 +4,5 @@
     "editor.fontSize": 13,
     "workbench.startupEditor": "none",
     "files.autoSave": "afterDelay",
-    "editor.formatOnSave": true,
-    "[elm]": {
-        "editor.formatOnSave": true,
-        "editor.formatOnSaveTimeout": 3000
-    }
+    "editor.formatOnSave": true
 }
